@@ -7,7 +7,7 @@ Projeto para exemplificar o uso de links internos usando HTML.
 
 ## Resultado Página Contato
 
-[<img src="./resultado-pagina-contato.jpg" alt="links internos usando HTML (página contato)">](https://priscila199.github.io/links-internos/contato/contato.html/)
+[<img src="./resultado-pagina-contato.jpg" alt="links internos usando HTML (página contato)">](https://priscila199.github.io/links-internos/contato/contato.html)
 
 ## Tecnologia Utilizada
 - HTML
